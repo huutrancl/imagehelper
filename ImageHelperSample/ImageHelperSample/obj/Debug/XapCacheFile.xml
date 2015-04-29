@@ -1,0 +1,14 @@
+﻿<xapCache source="c:\users\huu\documents\visual studio 2013\Projects\ImageHelperSample\ImageHelperSample\Bin\Debug\ImageHelperSample_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="4/29/2015 2:36:35 PM">
+  <file source="c:\users\huu\documents\visual studio 2013\Projects\ImageHelperSample\ImageHelperSample\obj\Debug\ImageHelperSample.dll" archivePath="ImageHelperSample.dll" lastWriteTime="4/29/2015 2:36:34 PM" />
+  <file source="c:\users\huu\documents\visual studio 2013\Projects\ImageHelperSample\ImageHelperSample\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="4/29/2015 2:11:13 PM" />
+  <file source="c:\users\huu\documents\visual studio 2013\Projects\ImageHelperSample\ImageHelperSample\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="4/29/2015 2:11:13 PM" />
+  <file source="c:\users\huu\documents\visual studio 2013\Projects\ImageHelperSample\ImageHelperSample\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="4/29/2015 2:11:13 PM" />
+  <file source="c:\users\huu\documents\visual studio 2013\Projects\ImageHelperSample\ImageHelperSample\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="4/29/2015 2:11:13 PM" />
+  <file source="c:\users\huu\documents\visual studio 2013\Projects\ImageHelperSample\ImageHelperSample\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="4/29/2015 2:11:13 PM" />
+  <file source="c:\users\huu\documents\visual studio 2013\Projects\ImageHelperSample\ImageHelperSample\preload.jpg" archivePath="preload.jpg" lastWriteTime="4/29/2015 2:34:48 PM" />
+  <file source="c:\users\huu\documents\visual studio 2013\Projects\ImageHelperSample\ImageHelperSample\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="4/29/2015 2:32:39 PM" />
+  <file source="c:\users\huu\documents\visual studio 2013\Projects\ImageHelperSample\ImageHelperSample\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="4/29/2015 2:11:13 PM" />
+  <file source="c:\users\huu\documents\visual studio 2013\Projects\ImageHelperSample\ImageHelperSample\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="4/29/2015 2:11:13 PM" />
+  <file source="c:\users\huu\documents\visual studio 2013\Projects\ImageHelperSample\packages\ImageHelper.1.0.2\lib\ImageHelper.dll" archivePath="ImageHelper.dll" lastWriteTime="4/29/2015 2:15:06 PM" />
+  <file source="c:\users\huu\documents\visual studio 2013\Projects\ImageHelperSample\ImageHelperSample\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="4/29/2015 2:32:39 PM" />
+</xapCache>
