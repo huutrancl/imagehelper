@@ -19,15 +19,15 @@
 
 >1. To install Image Helper, run the following command in the Package Manager Console : https://www.nuget.org/packages/ImageHelper/
 
-		<center><b>Install-package ImageHelper</b></center>
+		Install-package ImageHelper
 
 >2. Add to the top of xaml file : 
 
-		<center><b>xmlns:safeimage="clr-namespace:ImageLib;assembly=ImageHelper"</b></center>
+		xmlns:safeimage="clr-namespace:ImageLib;assembly=ImageHelper"
 		
 >3. Use as image control : 
 
-		<center><b>safeimage:ImageHelper Width="350" Height="600" ImageStretch="UniformToFill" ImagePrePath="your image url/local" ImagePath="image url"</b></center>
+		<safeimage:ImageHelper Width="350" Height="600" ImageStretch="UniformToFill" ImagePrePath="your image url/local" ImagePath="image url"/>
 
 		
 </body>
