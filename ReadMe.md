@@ -20,7 +20,7 @@
 >1. To install Image Helper, run the following command in the Package Manager Console : <b>Install-package ImageHelper</b> 
 (https://www.nuget.org/packages/ImageHelper/)
 >2. Add : xmlns:safeimage="clr-namespace:ImageLib;assembly=ImageHelper"
->3. Use : <safeimage:ImageHelper Width="350" Height="600" ImageStretch="UniformToFill" ImagePrePath="your image url/local" ImagePath="image url"/>
+>3. Use : <p><safeimage:ImageHelper Width="350" Height="600" ImageStretch="UniformToFill" ImagePrePath="your image url/local" ImagePath="image url"/></p>
 
 </body>
 
