@@ -17,9 +17,10 @@
 
 ### <u> How to use </u> ###
 
->1. To install Image Helper, run the following command in the Package Manager Console : Install-package ImageHelper (https://www.nuget.org/packages/ImageHelper/)
->1. Add : xmlns:safeimage="clr-namespace:ImageLib;assembly=ImageHelper"
->2. Use : <safeimage:ImageHelper Width="350" Height="600" ImageStretch="UniformToFill" ImagePrePath="your image url/local" ImagePath="image url"/>
+>1. To install Image Helper, run the following command in the Package Manager Console : <b>Install-package ImageHelper</b> 
+(https://www.nuget.org/packages/ImageHelper/)
+>2. Add : xmlns:safeimage="clr-namespace:ImageLib;assembly=ImageHelper"
+>3. Use : <safeimage:ImageHelper Width="350" Height="600" ImageStretch="UniformToFill" ImagePrePath="your image url/local" ImagePath="image url"/>
 
 </body>
 
